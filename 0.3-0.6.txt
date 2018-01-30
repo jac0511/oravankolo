@@ -1,0 +1,22 @@
+﻿0.3
+-> get lista
+<- lista
+-> get css
+-> get js
+-> get json
+<- css
+<- js
+<- json
+
+0.4
+-> post data
+-- saved to database
+<- ok
+-> get lista....
+
+0.5
+sama ku  0.3
+
+0.6
+-> post data
+<- json mods ok
